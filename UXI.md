@@ -59,7 +59,7 @@
 
 **До**
 
- ![]()
+ ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after2.PNG)
 
 
 **После**
