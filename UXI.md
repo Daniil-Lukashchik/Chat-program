@@ -27,9 +27,7 @@
 
 ### Пути улучшения UI/UX
 
-- Перенести кнопку Login ближе к вводу данных для входа в чат;
-- Добавление оповещения об ошибке ввода данных;
-- Добавление собственного фото в профиль вместо дефлтного значка.
+
 
 ### 4. Сравнение "До/После"
 
@@ -37,36 +35,36 @@
 
 **До**
 
- ![]()
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B5.jpg)
 
 
 **После**
 
- ![]()
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5.jpg)
 
  ##
   2.
 
 **До**
 
- ![]()
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B5.jpg)
 
 
 **После**
 
- ![]()
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5.jpg)
 
  ##
   3.
 
 **До**
-blob
- ![]()
+
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B5.jpg)
 
 
 **После**
 
- ![]()
+ ![](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5.jpg)
 
  ##
   4.
@@ -81,30 +79,7 @@ blob
    ![]()
 
   ##
-   5.
-
-  **До**
-
-   ![]()
-
-
-  **После**
-
-   ![]()
-
-  ##
-   6.
-
-  **До**
-
-   ![]()
-
-
-  **После**
-
-   ![]()
-
-   ##
+  
 
 
 
